@@ -1,10 +1,10 @@
 h1 a, h2 a {
-    color: #C25100;
+    color: #4b0261;
     font-family: 'Lobster';
 }
 
 .page-header {
-    background-color: #C25100;
+    background-color: #4b0261;
     margin-top: 0;
     margin-bottom: 40px;
     padding: 20px 20px 20px 40px;
@@ -46,6 +46,7 @@ h4 {
     float: right;
     font-size: 26pt;
     margin-right: 20px;
+
 }
 
 .post {
@@ -64,12 +65,16 @@ h4 {
 
 .btn-default,
 .btn-default:visited {
-    color: #C25100;
+    color: #4b0261;
     background: none;
-    border-color: #C25100;
+    border-color: #4b0261;
 }
 
 .btn-default:hover {
     color: #FFFFFF;
-    background-color: #C25100;
+    background-color: #4b0261;
+}
+
+.post time{
+    margin-right: 20px;
 }
