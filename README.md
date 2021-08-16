@@ -8,9 +8,12 @@ A blog website with Django
 - Html
 - CSS
 
-<!-- ## Screenshots
+## Screenshots
 
-![App Screenshot](https://github.com/badjatya/CLI-Cricket-Quiz-Mark2/blob/main/img/Mark2.png) -->
+![App Screenshot](https://github.com/nandinichhajed/DjangoBlogs/blob/main/images/1.png)
+![App Screenshot](https://github.com/nandinichhajed/DjangoBlogs/blob/main/images/2.png)
+![App Screenshot](https://github.com/nandinichhajed/DjangoBlogs/blob/main/images/3.png)
+
 
 ## Run Locally
 
