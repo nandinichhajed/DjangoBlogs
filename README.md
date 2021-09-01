@@ -69,4 +69,7 @@ python manage.py runserver
 
 ## Feedback
 
+These samples may be updated from time to time so you might want to get updates
+using `git pull`.  Also if there are bugs, you are welcome to submit
+a Pull Request on github.Either
 Reach out to me on [LinkedIn](https://linkedin.com/in/nandinichhajed)
