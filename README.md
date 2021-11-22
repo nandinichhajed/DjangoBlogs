@@ -20,10 +20,10 @@ A blog website with Django
 **Clone project**
 
 ```bash
-git clone https://link-to-project
+git clone https://github.com/nandinichhajed/DjangoBlogs.git
 ```
 
-**Get project forlder**
+**Get project folder**
 
 ```bash
 cd djangoblogs
@@ -68,6 +68,8 @@ python manage.py runserver
 ( * Running on http://127.0.0.1:8000/)
 
 ## Feedback
+
+Give a ⭐️  if this project helped you!
 
 These samples may be updated from time to time so you might want to get updates
 using `git pull`.  Also if there are bugs, you are welcome to submit
